@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-image: url('../grunge_wall\ copy.png');  
+position: relative;
+min-height: 100vh;
+}
+
+header{
+    text-align: center;
+    
+}
+
+.navbar{
+    
+}
+.navbar-brand 
+{
+ font-family: 'Bebas Neue', cursive;
+ font-size: 40pt;
+ background-color:#181717 !important;
+ margin: 0 auto;
+}
+
+h7{
+    text-align: center;
+}
+.buttons{
+    text-align: right;
+}
+.menu {
+    height: 50px;
+    
+  }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: transparent;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18pt;
+    margin-right: 20px;
+    display: inline-block;
+} 
+a:hover {
+    color: #9c0603;
+    text-decoration: none;
+    background-color: transparent;
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+.bg-light {
+    background-color:#181717!important;
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.navbar-brand:hover{
+    color: white !important;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40pt;
+}
+
+main{
+    text-align: center;
+}
+
+.card{
+    background-color: #181717!important; 
+}
+.btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.card-title{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20pt;
+}
+
+h6{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 16pt;
+    text-align: right;
+    margin-right: 5rem;
+}
+
+.card{
+    border-radius: 0 !important;
+}
+
+.card-title{
+    margin-left: 6.5rem;
+}
+footer{
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   
+}
